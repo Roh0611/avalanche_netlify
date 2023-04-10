@@ -43,7 +43,7 @@ const Brand = (props) => {
         />
       </svg> */}
       <svg height="24" width="127">
-        <a target="_blank">
+        <a href="http.avalanchepl.netlify.app" target="_blank">
           <text x="0" y="15" fill="black">AVALANCHE</text>
         </a>
         Sorry, your browser does not support inline SVG.
